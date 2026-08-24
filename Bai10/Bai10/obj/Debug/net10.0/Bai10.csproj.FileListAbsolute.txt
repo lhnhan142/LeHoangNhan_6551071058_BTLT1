@@ -1,0 +1,14 @@
+C:\Users\lhnha\Documents\C#\Home learning\BaiTap\BTLT1\Bai10\Bai10\bin\Debug\net10.0\Bai10.exe
+C:\Users\lhnha\Documents\C#\Home learning\BaiTap\BTLT1\Bai10\Bai10\bin\Debug\net10.0\Bai10.deps.json
+C:\Users\lhnha\Documents\C#\Home learning\BaiTap\BTLT1\Bai10\Bai10\bin\Debug\net10.0\Bai10.runtimeconfig.json
+C:\Users\lhnha\Documents\C#\Home learning\BaiTap\BTLT1\Bai10\Bai10\bin\Debug\net10.0\Bai10.dll
+C:\Users\lhnha\Documents\C#\Home learning\BaiTap\BTLT1\Bai10\Bai10\bin\Debug\net10.0\Bai10.pdb
+C:\Users\lhnha\Documents\C#\Home learning\BaiTap\BTLT1\Bai10\Bai10\obj\Debug\net10.0\Bai10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhnha\Documents\C#\Home learning\BaiTap\BTLT1\Bai10\Bai10\obj\Debug\net10.0\Bai10.AssemblyInfoInputs.cache
+C:\Users\lhnha\Documents\C#\Home learning\BaiTap\BTLT1\Bai10\Bai10\obj\Debug\net10.0\Bai10.AssemblyInfo.cs
+C:\Users\lhnha\Documents\C#\Home learning\BaiTap\BTLT1\Bai10\Bai10\obj\Debug\net10.0\Bai10.csproj.CoreCompileInputs.cache
+C:\Users\lhnha\Documents\C#\Home learning\BaiTap\BTLT1\Bai10\Bai10\obj\Debug\net10.0\Bai10.dll
+C:\Users\lhnha\Documents\C#\Home learning\BaiTap\BTLT1\Bai10\Bai10\obj\Debug\net10.0\refint\Bai10.dll
+C:\Users\lhnha\Documents\C#\Home learning\BaiTap\BTLT1\Bai10\Bai10\obj\Debug\net10.0\Bai10.pdb
+C:\Users\lhnha\Documents\C#\Home learning\BaiTap\BTLT1\Bai10\Bai10\obj\Debug\net10.0\Bai10.genruntimeconfig.cache
+C:\Users\lhnha\Documents\C#\Home learning\BaiTap\BTLT1\Bai10\Bai10\obj\Debug\net10.0\ref\Bai10.dll
